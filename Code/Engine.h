@@ -1,10 +1,7 @@
-
+#pragma once
 #pragma once
 #include <SFML/Graphics.hpp>
 #include "Particle.h"
-#include <stdio.h>      
-#include <stdlib.h>     
-#include <time.h>  
 using namespace sf;
 using namespace std;
 
